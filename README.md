@@ -1,0 +1,1 @@
+A minimal docker image capable of running Golang apps which relies on c/c++ shared libraries 
