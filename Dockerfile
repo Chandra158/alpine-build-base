@@ -1,4 +1,4 @@
-FROM alpine:3.8
+FROM alpine:3.9
 MAINTAINER Anuruddha Premalal <ag@tectusdreamlab.com>
 COPY ca-certificates.crt /etc/ssl/certs/ca-certificates.crt
 COPY libgcc_s.so.1 /usr/lib
